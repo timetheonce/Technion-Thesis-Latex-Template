@@ -121,5 +121,6 @@ This template is licensed under Creative Commons CC BY 4.0.
 
 ## Version History
 31 January 2019:   Initial Version
+19 November 2025:   Modified By Timetheonce, fix bidi compatibility
 
 
