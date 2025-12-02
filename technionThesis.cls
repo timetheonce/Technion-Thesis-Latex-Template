@@ -466,6 +466,7 @@
     \listoffigures*  \clearpage
     \listoftables*    \clearpage
     \mainmatter
+    \pagestyle{ruled}
 }
 
 
